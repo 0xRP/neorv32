@@ -1,0 +1,6 @@
+[submodule "sw/example/bram_demo"]
+	path = sw/example/bram_demo
+	url = https://github.com/0xRP/bram_demo
+[submodule "sw/example/i2c_demo_ex"]
+	path = sw/example/i2c_demo_ex
+	url = https://github.com/0xRP/i2c_demo_ex
